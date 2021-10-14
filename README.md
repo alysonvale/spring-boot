@@ -19,7 +19,7 @@ O que foi necessário para executar meus programas.
 ### Pré-Requisitos
 
 - [Start Spring IO](https://start.spring.io/)
-- Maven 
+- Maven 3.8.1
 - JAVA 11
 - H2 e outras dependencias
 - [Postman](https://www.postman.com/downloads/)
